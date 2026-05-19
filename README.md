@@ -1,3 +1,4 @@
+<img width="1760" height="1188" alt="pr3" src="https://github.com/user-attachments/assets/2d6c29a6-498f-4144-acef-ae31fa7259fd" />
 
 # <center> **PROJECT-3. EDA + Feature Engineering**
 ## Оглавление  
